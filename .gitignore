@@ -1,0 +1,4 @@
+logs/*
+model_store/*
+models/image-caption/NIC/*
+serve
